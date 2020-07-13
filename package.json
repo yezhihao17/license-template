@@ -1,0 +1,8 @@
+{
+  "name": "license-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yezhihao17/license-template.git",
+  "author": "yezhihao17@163.com <yezhihao17@163.com>",
+  "license": "MIT"
+}
